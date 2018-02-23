@@ -1,4 +1,5 @@
 // compile with debug symbols on OSX: g++ *.cpp -g -o test.exe
+// compile with debug symbols on Ubuntu: g++ *.cpp -g -std=c++11 -o test.exe
 // debug on OSX: lldb ./test.exe
 #include <iostream>
 #include <stdlib.h>
